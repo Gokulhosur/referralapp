@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\controllers\\assigntousercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:controllers\\assigntousercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:controllers\\usermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|d:\\sysmedacprojects\\loanreferalapp\\referalapp-api\\utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9DE68-20B6-4F3A-A01D-D37C73526B8D}|ReferalApp.csproj|solutionrelative:utils\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagementController.cs",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\UserManagementController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserManagementController.cs",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\UserManagementController.cs",
+              "RelativeToolTip": "Controllers\\UserManagementController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:40:43.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssignToUserController.cs",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\AssignToUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AssignToUserController.cs",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\AssignToUserController.cs",
+              "RelativeToolTip": "Controllers\\AssignToUserController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwCUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T11:40:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T10:15:38.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Utils\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Utils\\AppConfig.cs",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Utils\\AppConfig.cs",
+              "RelativeToolTip": "Utils\\AppConfig.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wB8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:15:35.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAFgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:50:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\SysmedacProjects\\LoanReferalApp\\referalapp-api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:47:08.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

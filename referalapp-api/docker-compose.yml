@@ -1,0 +1,15 @@
+version: '2'
+services:
+    ReferalApp:
+       image: referalapp:latest 
+       restart: always
+       ports:
+          - 6167:8080
+       volumes:
+          - /opt/Referapp/Uploads:/app/Uploads/
+          - /opt/Referapp/Uploads/pdf:/srv/www/app/Uploads/pdf
+          - /opt/Referapp/Uploads/Excel:/srv/www/app/Uploads/Excel
+          - /opt/Referapp/Uploads/word:/srv/www/app/Uploads/word
+          - /opt/Referapp/Uploads/html:/srv/www/app/Uploads/html
+
+

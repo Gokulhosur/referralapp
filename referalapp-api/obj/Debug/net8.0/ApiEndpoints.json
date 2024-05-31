@@ -1,0 +1,459 @@
+[
+  {
+    "ContainingType": "ReferalApp.Controllers.AdminController",
+    "Method": "AdminLogin",
+    "RelativePath": "api/loanReferal/Admin/AdminLogin",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.AdminController",
+    "Method": "GetEmployee",
+    "RelativePath": "api/loanReferal/Admin/GetEmployeeDet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.AdminController",
+    "Method": "InsrtOrUpdateEmployee",
+    "RelativePath": "api/loanReferal/Admin/InsrtOrUpdateEmployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BEmployeeReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.AssignToUserController",
+    "Method": "GetEmployeeDropdown",
+    "RelativePath": "api/loanReferal/AssignToUser/GetEmployeeDropdown",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.AssignToUserController",
+    "Method": "GetUserAccountGridBind",
+    "RelativePath": "api/loanReferal/AssignToUser/GetUserAccountGridBind",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.AssignToUserController",
+    "Method": "UpdateAssignedToUserDetails",
+    "RelativePath": "api/loanReferal/AssignToUser/UpdateAssignedToUserDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BUserDetail",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadPayoutController",
+    "Method": "GetLeadPayoutDetailsByLeadId",
+    "RelativePath": "api/loanReferal/LeadPayout/GetLeadPayoutDetailsByLeadId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadPayoutController",
+    "Method": "InsertorUpdateLeadPayoutDetails",
+    "RelativePath": "api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BLeadPayoutDetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "GetAllMasterDetails",
+    "RelativePath": "api/loanReferal/Leads/GetAllMasterDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "GetAllPersonalGridBind",
+    "RelativePath": "api/loanReferal/Leads/GetAllPersonalGridBind",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "GetAllReferrerDetails",
+    "RelativePath": "api/loanReferal/Leads/GetAllReferrerDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "InsrtOrUpdateLeadsServices",
+    "RelativePath": "api/loanReferal/Leads/InsrtOrUpdateLeadsServices",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BLeadsDetailsReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "LeadsCountByStatus",
+    "RelativePath": "api/loanReferal/Leads/LeadsCountByStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refereId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "LeadsDetailsByLeadsId",
+    "RelativePath": "api/loanReferal/Leads/LeadsDetailsByLeadsId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "LeadsId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "LeadsStatusId",
+        "Type": "System.Nullable\u00601[[System.Int64, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "LeadsDetailsByrefereId",
+    "RelativePath": "api/loanReferal/Leads/LeadsDetailsByrefereId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leadsRefererId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "LeadsStatusMasterId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.LeadsController",
+    "Method": "UpdatePersonStatus",
+    "RelativePath": "api/loanReferal/Leads/UpdatePersonStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "status",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.ProductController",
+    "Method": "InsertorUpdateProductDetails",
+    "RelativePath": "api/loanReferal/Product/InsertorUpdateProductDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BProductdetails",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.ReferrerPayoutController",
+    "Method": "InsertorUpdateReferrerPayoutDetails",
+    "RelativePath": "api/loanReferal/ReferrerPayout/InsertorUpdateReferrerPayoutDetails",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BReferrerPayoutReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/loanReferal/Registration/ChangePassword",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "fileUpload",
+    "RelativePath": "api/loanReferal/Registration/fileupload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "forgotEmailOtp",
+    "RelativePath": "api/loanReferal/Registration/forgotEmailOtp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "GetOtp",
+    "RelativePath": "api/loanReferal/Registration/getEmailOtp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emailId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "getReferalDetails",
+    "RelativePath": "api/loanReferal/Registration/getReferalDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refererDetailsId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      },
+      {
+        "Name": "leadStatusId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "getReferalDetailsById",
+    "RelativePath": "api/loanReferal/Registration/getReferalDetailsById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refererDetailsId",
+        "Type": "System.Int64",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "InsertOrUpdateDocuments",
+    "RelativePath": "api/loanReferal/Registration/InsertOrUpdateDocuments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "System.Collections.Generic.List\u00601[[ReferalApp.Utils.Entity\u002BRefereDocumetReq, ReferalApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "InsertOrUpdateRefere",
+    "RelativePath": "api/loanReferal/Registration/InsertOrUpdateReferelDet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ReferalApp.Utils.Entity\u002BRefererDetailsReq",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "getReferalDetails",
+    "RelativePath": "api/loanReferal/Registration/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.RegistrationController",
+    "Method": "Test",
+    "RelativePath": "api/loanReferal/Registration/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReferalApp.Controllers.UserManagementController",
+    "Method": "GetAllUserHistory",
+    "RelativePath": "api/loanReferal/UserManagement/GetAllUserHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

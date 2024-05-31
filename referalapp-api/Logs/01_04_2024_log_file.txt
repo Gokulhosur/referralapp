@@ -1,0 +1,42 @@
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Request : None 
+2024-04-01 3:33:40 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Message : Success
+2024-04-01 3:33:44 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Request : None 
+2024-04-01 3:34:50 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Message : Success
+2024-04-01 3:34:53 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Request : None 
+2024-04-01 3:39:53 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Message : Success
+2024-04-01 3:39:57 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Request : None 
+2024-04-01 4:12:12 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Message : Success
+2024-04-01 4:12:15 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Request : None 
+2024-04-01 4:28:51 PM
+API Name : api/loanReferal/AssignToUser/GetUserAccountGridBind | Message : Success
+2024-04-01 4:28:54 PM
+API Name : api/loanReferal/AssignToUser/GetEmployeeDropdown | Request : None 
+2024-04-01 4:55:12 PM
+API Name : api/loanReferal/AssignToUser/GetEmployeeDropdown | Message : Success
+2024-04-01 4:55:15 PM
+API Name : api/loanReferal/AssignToUser/UpdateAssignedToUserDetails | Request Data : ReferalApp.Utils.UserDetail
+2024-04-01 5:21:39 PM
+API Name : api/loanReferal/LeadPayout/GetAllStatus | Request : None 
+2024-04-01 7:35:26 PM
+API Name : api/loanReferal/LeadPayout/GetAllStatus | Message : Success
+2024-04-01 7:35:30 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.LeadPayoutDetails
+2024-04-01 7:40:04 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.LeadPayoutDetails
+2024-04-01 8:00:27 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.LeadPayoutDetails
+2024-04-01 8:01:48 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.Entity+LeadPayoutDetails
+2024-04-01 8:09:33 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.Entity+LeadPayoutDetails
+2024-04-01 8:19:11 PM
+API Name : api/loanReferal/LeadPayout/InsertorUpdateLeadPayoutDetails | Request Data : ReferalApp.Utils.Entity+LeadPayoutDetails
+2024-04-01 8:20:50 PM
